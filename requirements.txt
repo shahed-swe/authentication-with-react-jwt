@@ -13,3 +13,4 @@ requests==2.25.1
 social-auth-app-django==4.0.0
 social-auth-core==4.1.0
 drf-yasg
+django-cors-headers
